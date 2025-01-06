@@ -1,3 +1,10 @@
 name: ItemDancoDeBados
 version: '${version}'
 main: zc.teste.itemdancodebados.ItemDancoDeBados
+
+commands:
+  item:
+    description: "Comando para dar um item"
+    usage: "/item"
+    permission: "itemdancodebados.item"
+    aliases: [i, idb, itemdb]

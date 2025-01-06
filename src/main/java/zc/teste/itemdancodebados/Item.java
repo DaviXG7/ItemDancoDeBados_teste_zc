@@ -1,4 +1,4 @@
-package zc.teste.itemdancodebados.item;
+package zc.teste.itemdancodebados;
 
 import lombok.Getter;
 import org.bukkit.ChatColor;
